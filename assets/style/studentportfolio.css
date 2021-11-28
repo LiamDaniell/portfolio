@@ -2,7 +2,7 @@
 	
 body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	/*background-color: rgb(13,69,112);*/
+	background-color: rgb(146,168,209);
 	}
 
 #container {
@@ -11,6 +11,7 @@ body {
 	margin-left: auto;
 	margin-top: 50px;
 	margin-bottom: 50px;
+
 }
 .pic {
     width: 200px;
@@ -72,9 +73,9 @@ p {
     display: none;
     padding: 6px 12px;
     border: 1px solid #ccc;
-    height: 275px;
+    height: 325px;
     border-top: none;
-/*background-color: rgb(13,69,112)
+    color:black;
 }
 
 .tabcontent {
